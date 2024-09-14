@@ -1,3 +1,1 @@
-<a href="https://drive.google.com/file/d/1VmIahOMV4oyTESDc9QZaAeh7b243nSuW/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="Screenshot 2024-09-15 022615.png" alt="Screenshot 2024-06-14 at 14 47 09" width="1417" />
-</a>
+# employee-management<img width="1417" alt="Screenshot 2022-06-14 at 14 47 09" src="https://user-images.githubusercontent.com/64640469/173594367-d363f981-2478-4466-8e3d-738eaf720fd2.png">
